@@ -1,0 +1,2 @@
+Ladda -- http://lab.hakim.se/ladda/
+	Button with loading indicator
